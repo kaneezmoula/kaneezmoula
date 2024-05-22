@@ -1,4 +1,4 @@
-## 👋Hi there
+## Hi there!
 
 I'm Kaneez and I am currently learning the fundamentals of software engineering through collaborative coding.  
 
